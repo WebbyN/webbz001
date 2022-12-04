@@ -180,7 +180,5 @@ public class CardHolder
             {
                 Console.WriteLine("Thank you! have a nice day :)");
             }
-
-        
     }
 }
