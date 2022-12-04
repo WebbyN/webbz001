@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\c_sharp\ATM_console\bin\Debug\net6.0\ATM_console.exe
+C:\Users\Administrator\Documents\c_sharp\ATM_console\bin\Debug\net6.0\ATM_console.deps.json
+C:\Users\Administrator\Documents\c_sharp\ATM_console\bin\Debug\net6.0\ATM_console.runtimeconfig.json
+C:\Users\Administrator\Documents\c_sharp\ATM_console\bin\Debug\net6.0\ATM_console.dll
+C:\Users\Administrator\Documents\c_sharp\ATM_console\bin\Debug\net6.0\ATM_console.pdb
+C:\Users\Administrator\Documents\c_sharp\ATM_console\obj\Debug\net6.0\ATM_console.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\c_sharp\ATM_console\obj\Debug\net6.0\ATM_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\c_sharp\ATM_console\obj\Debug\net6.0\ATM_console.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\c_sharp\ATM_console\obj\Debug\net6.0\ATM_console.AssemblyInfo.cs
+C:\Users\Administrator\Documents\c_sharp\ATM_console\obj\Debug\net6.0\ATM_console.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\c_sharp\ATM_console\obj\Debug\net6.0\ATM_console.dll
+C:\Users\Administrator\Documents\c_sharp\ATM_console\obj\Debug\net6.0\refint\ATM_console.dll
+C:\Users\Administrator\Documents\c_sharp\ATM_console\obj\Debug\net6.0\ATM_console.pdb
+C:\Users\Administrator\Documents\c_sharp\ATM_console\obj\Debug\net6.0\ATM_console.genruntimeconfig.cache
+C:\Users\Administrator\Documents\c_sharp\ATM_console\obj\Debug\net6.0\ref\ATM_console.dll
