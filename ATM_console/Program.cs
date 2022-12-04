@@ -118,7 +118,7 @@ public class CardHolder
         cardHolders.Add(new CardHolder("123", 6544, "James", "zebedee", 249.99));
 
         //prompt user
-        Console.WriteLine("Welcome to Easy_ATM");
+        Console.WriteLine("Welcome to Easy_ATM!!!");
         Console.WriteLine("Please insert your depit card: ");
 
         String debitCardNum = "";
